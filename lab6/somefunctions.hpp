@@ -12,3 +12,5 @@ void sort(int n, int mas[N]);
 
 // Поиск суммы цифр числа
 int sumdigit(int x);
+
+

@@ -1,7 +1,7 @@
 #include <math.h>
-#define N 1000
+#define N 10
 #include "somefunctions.hpp"
-#pragma once
+
 //определение простоты числа
 bool isPrime(int x)
 {
@@ -39,3 +39,4 @@ int sumdigit(int x)
     }
     return true;
 }
+
